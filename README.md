@@ -1,5 +1,8 @@
 # PKCE Library for Go
 
+> [!NOTE]
+> PKCE support was added to the [golang.org/x/oauth2](https://pkg.go.dev/golang.org/x/oauth2) package in v0.13.0.
+
 `go-pkce` provides a PKCE library for Go, implementing the `S256` challenge
 method.
 
